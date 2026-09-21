@@ -1,6 +1,6 @@
 # Giorgio Fantilli - Academic Portfolio
 
-Welcome to my academic GitHub profile. I am an MSc student in **Computer Science and Engineering** at the Università di Bologna (Cesena campus) and a working **Software Engineer**.
+Welcome to my academic GitHub profile. I am an MSc student in **Computer Science and Engineering** at the University of Bologna (Cesena campus) and a working **Software Engineer**.
 
 > **Profile Navigation**
 > You are currently on my **Academic Profile**, dedicated exclusively to my university coursework, and thesis projects.
